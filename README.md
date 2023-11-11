@@ -14,7 +14,7 @@ The Restaurant Reservation System is a C program developed to manage restaurant 
 ## How to setup and run the application:
 
 ## Potential Improvements
-**User Interface (UI): ** Consider adding a graphical or text-based user interface for a more user-friendly experience.
+**User Interface (UI):** Consider adding a graphical or text-based user interface for a more user-friendly experience.
 
 **Database Integration:** Integrate a database to persistently store reservation information.
 
