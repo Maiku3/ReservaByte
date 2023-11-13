@@ -1,5 +1,5 @@
-a3:	main.o Date.o Time.o Patron.o PatronArray.o Reservation.o Restaurant.o RsvList.o Table.o Control.o View.o 
-	g++ -o a3 main.o Date.o Time.o Patron.o PatronArray.o Reservation.o RsvList.o Restaurant.o Table.o Control.o View.o
+restaurant_reservation:	main.o Date.o Time.o Patron.o PatronArray.o Reservation.o Restaurant.o RsvList.o Table.o Control.o View.o 
+	g++ -o restaurant_reservation main.o Date.o Time.o Patron.o PatronArray.o Reservation.o RsvList.o Restaurant.o Table.o Control.o View.o
 
 main.o:	main.cc defs.h
 	g++ -c main.cc
@@ -35,4 +35,4 @@ View.o:	View.cc View.h
 	g++ -c View.cc
 
 clean:
-	rm -f *.o a3
+	rm -f *.o restaurant_reservation
