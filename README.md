@@ -42,7 +42,7 @@ Type in 1 to show all reservations <br>
 
 
 ## Potential Improvements
-- **User Interface (UI):** Consider adding a graphical or text-based user interface for a more user-friendly experience.
+- **User Interface (UI):** Consider adding a graphical user interface for a more user-friendly experience.
 
 - **Database Integration:** Integrate a database to store reservation information persistently.
 
