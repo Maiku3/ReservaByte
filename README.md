@@ -27,6 +27,20 @@ make
 ```
 ./restaurant_reservation
 ```
+
+## Usage
+First it preloads some reservations and patrons, which include cases that show all the types of error checks it does.
+<img width="574" alt="Screenshot 2023-11-14 at 9 40 33 PM" src="https://github.com/Maiku3/Restaurant-Reservation/assets/95307563/5569591e-cc10-4a19-b61f-8292b7326238">
+
+### The Menu
+<img width="510" alt="Screenshot 2023-11-14 at 9 51 31 PM" src="https://github.com/Maiku3/Restaurant-Reservation/assets/95307563/2e3f595e-03f6-4cfa-b21c-52049b015ce1">
+
+#### Option (1) Print reservation schedule
+Type in 1 to show all reservations <br>
+<img width="416" alt="Screenshot 2023-11-14 at 9 51 49 PM" src="https://github.com/Maiku3/Restaurant-Reservation/assets/95307563/11be7194-6bf7-4950-8daf-c0c48223020d">
+
+
+
 ## Potential Improvements
 - **User Interface (UI):** Consider adding a graphical or text-based user interface for a more user-friendly experience.
 
